@@ -1,16 +1,8 @@
-# eu_sou_rico
+# Eu sou rico
 
-A new Flutter application.
+Se aplicativo foi desenvolvido em Flutter que é o framework criado pelo Google que permite construir aplicativos Android e iOS com apenas um código. Esse projeto foi feito para que eu possa entender melhor como funciona o widgets e melhorar minhas habilidades. 
 
-## Getting Started
+Imagem do app: 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2021-05-16 at 17 31 07 (2)](https://user-images.githubusercontent.com/61952617/119178290-e1467b80-ba43-11eb-840a-864cc5307af1.jpeg)
